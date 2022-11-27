@@ -1,0 +1,23 @@
+{
+  "name": "canvas_game_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "squaresGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Verstopper/html5_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Verstopper/html5_project/issues"
+  },
+  "homepage": "https://github.com/Verstopper/html5_project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
